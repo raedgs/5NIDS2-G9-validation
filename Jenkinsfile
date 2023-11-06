@@ -6,7 +6,7 @@ pipeline {
         stage('Checkout GIT') {
             steps {
                 echo 'Pulling...'
-                git branch: 'main', url: 'https://github.com/raedgs/5NIDS2-G9-validation.git'
+                git branch: 'RaedGuesmi-5NIDS2-G9', url: 'https://github.com/raedgs/5NIDS2-G9-validation.git'
             }
         }
         stage('MVN CLEAN') {
