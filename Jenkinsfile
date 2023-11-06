@@ -35,7 +35,7 @@ pipeline {
         stage('build docker image'){
             steps{
                 script{
-                        sh 'docker build -t raed007/devops-inetgration .'
+                        sh 'docker build -t raed007/devops-integration .'
                 }
             }
         
