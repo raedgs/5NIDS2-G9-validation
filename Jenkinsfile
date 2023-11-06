@@ -4,7 +4,7 @@ pipeline {
         stage('Checkout GIT') {
             steps {
                 echo 'Pulling...'
-                git branch: 'main', url: 'https://github.com/ghaith450/5NIDS2-G9-Projet1.git'
+                git branch: 'RaedGuesmi-5NIDS2-G9', url: 'https://github.com/raedgs/5NIDS2-G9-validation.git'
             }
         }
         stage('MVN CLEAN') {
@@ -35,7 +35,7 @@ pipeline {
         stage('build docker image'){
             steps{
                 script{
-                        sh 'docker build -t raed007/5nids2-g9-projet1-1.0 .'
+                        sh 'docker build -t raed007/devops-inetgration .'
                 }
             }
         
@@ -43,9 +43,9 @@ pipeline {
         stage('docker hub'){
             steps{
                 script{
-                    sh 'docker tag raed007/5nids2-g9-projet1-1.0 raed007/5nids2-g9-projet1-1.0'
-                    sh 'docker login -u ghaith90 -p Weldelmo5'
-                    sh 'docker push ghaith90/5nids2-g9-projet1-1.0'
+                    sh 'docker tag raed007/devops-inetgration raed007/devops-inetgration'
+                    sh 'docker login -u raed007 -p Weldelmo5'
+                    sh 'docker push raed007/devops-inetgration'
                 }
             }
         }
