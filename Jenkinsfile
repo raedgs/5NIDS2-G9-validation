@@ -35,7 +35,7 @@ pipeline {
         stage('build docker image'){
             steps{
                 script{
-                        sh 'docker build -t raed007/devops-integration .'
+                        sh 'docker build -t devops-integration/devops-integration .'
                 }
             }
         
@@ -43,7 +43,7 @@ pipeline {
         stage('docker hub'){
             steps{
                 script{
-                    sh 'docker tag raed007/devops-inetgration raed007/devops-inetgration'
+                    sh 'docker tag devops-integration/devops-inetgration devops-integration/devops-inetgration'
                     sh 'docker login -u raed007 -p Weldelmo5'
                     sh 'docker push raed007/devops-inetgration'
                 }
