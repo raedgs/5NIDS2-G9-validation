@@ -1,10 +1,10 @@
+![grafana dashboard](https://github.com/raedgs/Devops-project/assets/60553077/cb1e8298-0ccf-47b7-b2be-8dabb4ead39f)
 ![docker compose](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/ae7be20e-0f7a-4afb-885a-438d38c46fe6)# 5NIDS2-G9-validation!![grafana dashboard](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/22cc878d-f7ea-4696-8614-6a2771a06183)
 ![git version](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/7600246b-65d3-48d1-9f69-163910fc7326)
 ![git test](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/e2e37ba0-fa9c-40eb-b8ef-a097f4c0d4d6)
 ![git init](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/930057c0-cbf8-48a1-95ed-2b929fdd5017)
 ![git config list](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/15b958ba-8458-421a-9bbb-6339db4d7ac9)
 ![sonar](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/29aff901-780f-4957-a352-fe2ebe55287d)
-![sonar web](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/c4f60a66-367e-49e4-9e7e-34c69188e668)
 ![sonar analyse](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/9dfa4d23-9bb5-42a7-8ee1-d0f74577fddd)
 ![prometheuss](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/c8af54ec-fa90-466d-8d2b-0a5123f5b189)
 ![prometheuse jenkins](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/7b857836-4801-444d-a979-bb9ab2f2973f)
@@ -17,6 +17,8 @@
 ![jenkins nexus](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/88a7f675-ae85-42bf-9bea-3837b966ec7d)
 ![installation prometheus](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/b8792a44-d9c4-4abc-867a-891121b8c6e8)
 ![grafana web](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/fb4858aa-dd49-490e-8d21-f9545082c313)
-![grafana download](https://github.com/raedgs/5NIDS2-G9-validation/assets/60553077/352f3ab3-59cc-4fdd-a8aa-5b00eea946d0)
+![sonar web](https://github.com/raedgs/Devops-project/assets/60553077/1f85cb99-00fb-4045-9cbf-924e34d93fed)
+
+
 
 [Uploading docker compose.PNG…]()
